@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Local project environment
+Scripts/
+Lib/
+Include/
+pyvenv.cfg
+
+# Project data - keep local
+data/raw/
+data/processed/
+
+# Local SQLite database
+sql/*.db
